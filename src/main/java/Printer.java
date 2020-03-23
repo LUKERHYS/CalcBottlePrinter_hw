@@ -9,4 +9,8 @@ public class Printer {
     public int getSheets(){
         return this.NumberOfSheets;
     }
+
+    public int print(int pages, int copies){
+        return this.NumberOfSheets -= (pages * copies);
+    }
 }
