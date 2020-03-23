@@ -1,9 +1,13 @@
 public class Printer {
 
     private int NumberOfSheets;
+    private String Error;
+    private int TonerVolume;
 
-    public Printer(int NumberOfSheets) {
+    public Printer(int NumberOfSheets, int TonerVolume) {
         this.NumberOfSheets = NumberOfSheets;
+        this.Error = "Print Failure: Paper tray 1 Too Low";
+        this.TonerVolume = TonerVolume;
     }
 
     public int getSheets(){
