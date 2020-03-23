@@ -17,19 +17,19 @@ public class CalculatorTest {
         assertEquals(6, calc.add(3, 3));
     }
 
-    @Test
-    public void canSubtract(){
-        assertEquals(3, calc.subtract(3, 3));
-    }
-
-    @Test
-    public void canMultiply(){
-        assertEquals(10, calc.multiply(2, 5));
-    }
-
-    @Test
-    public void canDivide(){
-        assertEquals(2.5, calc.divide(5.0, 2.0));
-    }
+//    @Test
+//    public void canSubtract(){
+//        assertEquals(3, calc.subtract(3, 3));
+//    }
+//
+//    @Test
+//    public void canMultiply(){
+//        assertEquals(10, calc.multiply(2, 5));
+//    }
+//
+//    @Test
+//    public void canDivide(){
+//        assertEquals(2.5, calc.divide(5.0, 2.0));
+//    }
 
 }
