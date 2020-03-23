@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="36979c32-c562-40e2-8c0b-76123b80f3db" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PrinterTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,25 +103,25 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="100" y="100" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584985259626" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1584987319585">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1584987567681">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584987319585" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584987567681" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715816" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1584987319583">
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1584987567679">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584987319583" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584987567679" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715813" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1584987319582">
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1584987567678">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584987319582" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584987567678" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715812" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1584987319584">
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1584987567680">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584987319584" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584987567680" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715815" />
     <state x="629" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584979279051">
       <screen x="0" y="0" width="1920" height="1080" />

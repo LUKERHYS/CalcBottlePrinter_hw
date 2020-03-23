@@ -25,6 +25,11 @@ public class PrinterTest {
     public void numberOfSheetsHasReduced(){
         printer.print(2, 2);
         assertEquals(246, printer.getSheets());
+    }
+
+    @Test
+    public void tonerVolumeReduced(){
+        printer.print(2, 2);
         assertEquals(96, printer.getToner());
     }
 

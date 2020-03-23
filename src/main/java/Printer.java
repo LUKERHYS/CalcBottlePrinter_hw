@@ -10,20 +10,26 @@ public class Printer {
         this.TonerVolume = TonerVolume;
     }
 
-    public int getSheets(){
+    public int getSheets() {
         return this.NumberOfSheets;
     }
 
-    public int getToner(){
+    public int getToner() {
         return this.TonerVolume;
     }
 
-    public int print(int pages, int copies) {
-        if(this.NumberOfSheets >= (pages * copies)) {
-            return this.NumberOfSheets -= (pages * copies);
-        } else {
-//            return toString("Print Failure: Paper tray 1 Too Low");
-            return 0;
+    public int reduceToner(int pages, int copies) {
+        return this.TonerVolume -= (pages * copies);
+    }
+
+    public int reducePaper(int pages, int copies) {
+        return this.NumberOfSheets -= (pages * copies);
+    }
+
+    public void print(int pages, int copies) {
+        if (this.NumberOfSheets >= (pages * copies) && this.TonerVolume >= this.TonerVolume) {
+            reducePaper(pages, copies);
+            reduceToner(pages, copies);
         }
     }
 }
