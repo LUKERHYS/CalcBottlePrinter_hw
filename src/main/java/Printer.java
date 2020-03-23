@@ -14,6 +14,10 @@ public class Printer {
         return this.NumberOfSheets;
     }
 
+    public int getToner(){
+        return this.TonerVolume;
+    }
+
     public int print(int pages, int copies) {
         if(this.NumberOfSheets >= (pages * copies)) {
             return this.NumberOfSheets -= (pages * copies);
