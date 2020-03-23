@@ -3,13 +3,13 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class waterBottleTest {
+public class WaterBottleTest {
 
-    waterBottle waterBottle;
+    WaterBottle waterBottle;
 
     @Before
     public void before(){
-        waterBottle = new waterBottle();
+        waterBottle = new WaterBottle();
     }
 
     @Test

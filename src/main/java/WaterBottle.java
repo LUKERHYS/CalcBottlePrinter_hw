@@ -1,8 +1,8 @@
-public class waterBottle {
+public class WaterBottle {
 
     private int volume;
 
-    public waterBottle(){
+    public WaterBottle(){
         this.volume = 100;
     }
 
