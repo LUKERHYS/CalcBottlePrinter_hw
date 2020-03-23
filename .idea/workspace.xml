@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
+  <component name="RunManager" selected="JUnit.waterBottleTest">
     <configuration name="All in CalcWaterPrinter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CalcWaterPrinter" />
       <option name="PACKAGE_NAME" value="" />
@@ -57,8 +57,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="waterBottleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcWaterPrinter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="waterBottleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.waterBottleTest" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.All in CalcWaterPrinter" />
       </list>

@@ -32,11 +32,15 @@ public class waterBottleTest {
 
     @Test
     public void hasEmptiedBottle(){
-        assertEquals(0, waterBottle.empty());
+        waterBottle.empty()
+        assertEquals(0, waterBottle.getVolume());
     }
 
     @Test
     public void hasRefilledBottle(){
-        assertEquals(100, waterBottle.refill());
+        waterBottle.drink();
+        waterBottle.drink();
+        waterBottle.refill()
+        assertEquals(100, waterBottle.getVolume());
     }
 }
