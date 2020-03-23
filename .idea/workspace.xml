@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CalculatorTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in CalcWaterPrinter">
+    <configuration name="All in CalcWaterPrinter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalcWaterPrinter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CalcWaterPrinter" />
       <option name="PACKAGE_NAME" value="" />
@@ -51,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in CalcWaterPrinter" />
         <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
@@ -67,5 +77,27 @@
       <updated>1584977548270</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1584979065302">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584979065302" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715816" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1584979065299">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584979065299" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715813" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1584979065297">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584979065297" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715812" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1584979065301">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584979065301" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715815" />
   </component>
 </project>

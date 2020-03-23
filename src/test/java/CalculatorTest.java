@@ -17,10 +17,10 @@ public class CalculatorTest {
         assertEquals(6, calc.add(3, 3));
     }
 
-//    @Test
-//    public void canSubtract(){
-//        assertEquals(3, calc.subtract(3, 3));
-//    }
+    @Test
+    public void canSubtract(){
+        assertEquals(3, calc.subtract(6, 3));
+    }
 //
 //    @Test
 //    public void canMultiply(){
