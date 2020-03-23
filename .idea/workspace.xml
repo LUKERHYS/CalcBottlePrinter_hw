@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36979c32-c562-40e2-8c0b-76123b80f3db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/waterBottle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/waterBottleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/waterBottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/waterBottle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/waterBottleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/waterBottleTest.java" afterDir="false" />
@@ -90,25 +88,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1584982703122">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1584982742677">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584982703122" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584982742677" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715816" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1584982703120">
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1584982742676">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584982703120" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584982742676" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715813" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1584982703119">
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1584982742674">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584982703119" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584982742674" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715812" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1584982703121">
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1584982742676">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584982703121" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584982742676" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715815" />
     <state x="629" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584979279051">
       <screen x="0" y="0" width="1920" height="1080" />
