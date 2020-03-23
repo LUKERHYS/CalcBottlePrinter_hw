@@ -26,10 +26,26 @@ public class Printer {
         return this.NumberOfSheets -= (pages * copies);
     }
 
-    public void print(int pages, int copies) {
-        if (this.NumberOfSheets >= (pages * copies) && this.TonerVolume >= this.TonerVolume) {
+//    public String print(int pages, int copies) {
+//        if (this.NumberOfSheets >= (pages * copies) && this.TonerVolume >= this.TonerVolume) {
+//            reducePaper(pages, copies);
+//            reduceToner(pages, copies);
+//            return "Print successful";
+//        } else {
+//            return "Print Failure: Paper tray 1 Too Low";
+//        }
+//    }
+
+    public String print(int pages, int copies) {
+        if (this.NumberOfSheets <= (pages * copies) || this.TonerVolume <= (pages * copies)) {
+            return "Print Failure: Paper tray 1 Too Low";
+
+        } else if (this.NumberOfSheets >= (pages * copies) && this.TonerVolume >= (pages * copies)) {
             reducePaper(pages, copies);
             reduceToner(pages, copies);
+            return "Print successful";
+        } else {
+            return "error";
         }
     }
 }

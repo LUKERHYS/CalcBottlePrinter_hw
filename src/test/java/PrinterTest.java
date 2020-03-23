@@ -34,9 +34,15 @@ public class PrinterTest {
     }
 
     @Test
-    public void failedToPrintDueToNoPaper(){
+    public void successfullPrint(){
+        assertEquals("Print successful", printer.print(2, 2));
+        assertEquals(96, printer.getToner());
+        assertEquals(246, printer.getSheets());
+    }
+
+    @Test
+    public void failedToPrintLowPaper(){
         Printer lowPaperPrinter = new Printer(3, 100);
-//        assertEquals("Print Failure: Paper tray 1 Too Low", printer.print(2, 2));
-        assertEquals(0, lowPaperPrinter.print(2, 2));
+        assertEquals("Print Failure: Paper tray 1 Too Low", printer.print(2, 2));
     }
 }
