@@ -98,25 +98,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1584984455966">
+    <state x="100" y="100" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584985259626">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584984455966" />
+    <state x="100" y="100" width="1720" height="880" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584985259626" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1584985345623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584985345623" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715816" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1584984455964">
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1584985345621">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584984455964" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584985345621" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715813" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1584984455963">
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1584985345620">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584984455963" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584985345620" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715812" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1584984455965">
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1584985345622">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584984455965" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.280.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1584985345622" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/-1280.303.1280.777/0.0.1920.1080@0.0.1920.1080" timestamp="1584978715815" />
     <state x="629" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584979279051">
       <screen x="0" y="0" width="1920" height="1080" />

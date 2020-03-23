@@ -11,10 +11,11 @@ public class Printer {
     }
 
     public int print(int pages, int copies) {
-        if (this.numberOfSheets >= (pages * copies)) {
+        if(this.NumberOfSheets >= (pages * copies)) {
             return this.NumberOfSheets -= (pages * copies);
         } else {
-            return "Print Failure: Paper tray 1 Too Low";
+//            return toString("Print Failure: Paper tray 1 Too Low");
+            return 0;
         }
     }
 }
