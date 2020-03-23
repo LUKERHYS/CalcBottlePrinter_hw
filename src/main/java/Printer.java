@@ -6,5 +6,7 @@ public class Printer {
         this.NumberOfSheets = NumberOfSheets;
     }
 
-
+    public int getSheets(){
+        return this.NumberOfSheets;
+    }
 }
