@@ -21,11 +21,11 @@ public class CalculatorTest {
     public void canSubtract(){
         assertEquals(3, calc.subtract(6, 3));
     }
-//
-//    @Test
-//    public void canMultiply(){
-//        assertEquals(10, calc.multiply(2, 5));
-//    }
+
+    @Test
+    public void canMultiply(){
+        assertEquals(10, calc.multiply(2, 5));
+    }
 //
 //    @Test
 //    public void canDivide(){
