@@ -16,19 +16,20 @@ public class waterBottleTest {
     public void hasVolume(){
         assertEquals(100, waterBottle.getVolume());
     }
-//
-//    @Test
-//    public void hasOneDrink(){
-//        assertEquals(90, waterBottle.drink());
-//    }
-//
-//    @Test
-//    public void hasThreeDrinks(){
-//        waterBottle.drink();
-//        waterBottle.drink();
-//        waterBottle.drink();
-//        assertEquals(70, waterBottle.getVolume());
-//    }
+
+    @Test
+    public void hasOneDrink(){
+        waterBottle.drink();
+        assertEquals(90, waterBottle.getVolume());
+    }
+
+    @Test
+    public void hasThreeDrinks(){
+        waterBottle.drink();
+        waterBottle.drink();
+        waterBottle.drink();
+        assertEquals(70, waterBottle.getVolume());
+    }
 //
 //    @Test
 //    public void hasEmptiedBottle(){
