@@ -22,9 +22,9 @@ public class PrinterTest {
         assertEquals(246, printer.getSheets());
     }
 
-//    @Test
-//    public void failedToPrintDueToNoPaper(){
-//        Printer lowPaperPrinter = new Printer(3);
-//        assertEquals("Print Failure: Paper tray 1 Too Low", printer.print(2, 2));
-//    }
+    @Test
+    public void failedToPrintDueToNoPaper(){
+        Printer lowPaperPrinter = new Printer(3);
+        assertEquals("Print Failure: Paper tray 1 Too Low", printer.print(2, 2));
+    }
 }
